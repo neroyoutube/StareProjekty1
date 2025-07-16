@@ -1,0 +1,14 @@
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\bin\Debug\Zajefajna-Gierka.exe.config
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\bin\Debug\Zajefajna-Gierka.exe
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\bin\Debug\Zajefajna-Gierka.pdb
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna-Gierka.csprojAssemblyReference.cache
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna_Gierka.Form1.resources
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna_Gierka.Properties.Resources.resources
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna-Gierka.csproj.GenerateResource.cache
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna-Gierka.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna-Gierka.exe
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna-Gierka.pdb
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\bin\Debug\Zajefajna-Gierka.exe.manifest
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\bin\Debug\Zajefajna-Gierka.application
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna-Gierka.exe.manifest
+C:\Users\13-19 lat\source\repos\Zajefajna-Gierka\Zajefajna-Gierka\obj\Debug\Zajefajna-Gierka.application
